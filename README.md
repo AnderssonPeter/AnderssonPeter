@@ -9,7 +9,17 @@
 <br />
 <br />
 <br />
-<img style="clear: both;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnderssonPeter&show_icons=true&include_all_commits=true" alt="Peter's github stats" />
+<a href="https://github.com/AnderssonPeter/AnderssonPeter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonPeter&hide=html" />
+</a>
+<a href="https://github.com/AnderssonPeter/AnderssonPeter">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnderssonPeter&show_icons=true&include_all_commits=true" alt="Peter's github stats" />
+</a>
+
+
+<a href="https://github.com/AnderssonPeter/CompressedStaticFiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnderssonPeter&repo=CompressedStaticFiles" />
+</a>    
 
 - 🌱 I’m currently learning [Godot](https://godotengine.org) & GraphQL
 - 🔭 I’m currently working on [MiFloraSwarm](https://github.com/AnderssonPeter/MiFloraSwarm)
