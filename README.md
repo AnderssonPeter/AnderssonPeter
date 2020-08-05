@@ -24,6 +24,7 @@
 </a>
 
 **Languages and Tools:**
+
 <img src="https://img.icons8.com/ios-filled/48/000000/c-sharp-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
