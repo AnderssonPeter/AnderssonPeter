@@ -6,12 +6,10 @@
 <a href="https://www.linkedin.com/in/peter-andersson-7a274325/">
   <img align="left" alt="Linkedin profile" width="58px" src="https://img.icons8.com/material-sharp/58/000000/linkedin.png" />
 </a>
-<br />
-<br />
-<br />
-## GitHub Stats
+
+### GitHub Stats
 <a href="https://github.com/AnderssonPeter/AnderssonPeter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonPeter&hide=html" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonPeter&hide=css,html" />
 </a>
 <a href="https://github.com/AnderssonPeter/AnderssonPeter">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnderssonPeter&show_icons=true&include_all_commits=true" alt="Peter's github stats" />
