@@ -9,13 +9,7 @@
 <br />
 <br />
 <br />
-<img style="clear: both;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnderssonPeter&show_icons=true&include_all_commits=true" alt="Anurag's github stats" />
-
-
-
-<br />
-<br />
-
+<img style="clear: both;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnderssonPeter&show_icons=true&include_all_commits=true" alt="Peter's github stats" />
 
 - 🌱 I’m currently learning [Godot](https://godotengine.org) & GraphQL
 - 🔭 I’m currently working on [MiFloraSwarm](https://github.com/AnderssonPeter/MiFloraSwarm)
