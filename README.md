@@ -9,6 +9,7 @@
 <br />
 <br />
 <br />
+## GitHub Stats
 <a href="https://github.com/AnderssonPeter/AnderssonPeter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonPeter&hide=html" />
 </a>
