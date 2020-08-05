@@ -8,7 +8,8 @@
 </a>
 <br />
 <br />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnderssonPeter&show_icons=true&include_all_commits=true" alt="Anurag's github stats" />
+<br />
+<img style="clear: both;" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnderssonPeter&show_icons=true&include_all_commits=true" alt="Anurag's github stats" />
 
 
 
