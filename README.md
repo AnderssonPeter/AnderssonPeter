@@ -1,10 +1,10 @@
 ### Hi there, I'm [Peter Andersson](https://anderssonpeter.github.io)
 <a href="https://stackoverflow.com/users/58553/peter">
-  <img align="left" src="https://stackoverflow.com/users/flair/58553.png?theme=clean" width="208" height="58" alt="profile for Peter at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Peter at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  <img src="https://stackoverflow.com/users/flair/58553.png?theme=clean" width="208" height="58" alt="profile for Peter at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Peter at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
 <a href="https://www.linkedin.com/in/peter-andersson-7a274325/">
-  <img align="left" alt="Linkedin profile" width="58px" src="https://img.icons8.com/material-sharp/58/000000/linkedin.png" />
+  <img alt="Linkedin profile" width="58px" src="https://img.icons8.com/material-sharp/58/000000/linkedin.png" />
 </a>
 
 ### GitHub Stats
