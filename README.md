@@ -18,10 +18,10 @@
 
 <a href="https://github.com/AnderssonPeter/CompressedStaticFiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnderssonPeter&repo=CompressedStaticFiles" />
-</a>    
-
-- 🌱 I’m currently learning [Godot](https://godotengine.org) & GraphQL
-- 🔭 I’m currently working on [MiFloraSwarm](https://github.com/AnderssonPeter/MiFloraSwarm)
+</a>
+<a href="https://github.com/AnderssonPeter/MiFloraSwarm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnderssonPeter&repo=MiFloraSwarm" />
+</a>
 
 **Languages and Tools:**  
 <img src="https://img.icons8.com/ios-filled/48/000000/c-sharp-logo.png"/>
