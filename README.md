@@ -12,11 +12,10 @@
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AnderssonPeter&include_all_commits=true" alt="Peter's github stats" />
 </a>
 <br />
-
 <a href="https://github.com/AnderssonPeter/AnderssonPeter">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonPeter&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonPeter" />
 </a>
-
+<br />
 
 <a href="https://github.com/AnderssonPeter/CompressedStaticFiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnderssonPeter&repo=CompressedStaticFiles" />
