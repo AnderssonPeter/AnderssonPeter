@@ -28,11 +28,3 @@
 <a href="https://github.com/AnderssonPeter/AnderssonPeter">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonPeter" />
 </a>
-<br />
-
-<a href="https://github.com/AnderssonPeter/CompressedStaticFiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnderssonPeter&repo=CompressedStaticFiles" />
-</a>
-<a href="https://github.com/AnderssonPeter/MiFloraSwarm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnderssonPeter&repo=MiFloraSwarm" />
-</a>
