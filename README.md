@@ -1,4 +1,4 @@
-### Hi there, I'm Peter Andersson, a fullstack developer currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Sölvesborg, Blekinge, Sweden
+### Hi there, I'm Peter Andersson, a fullstack developer currently living in <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Sölvesborg, Blekinge, Sweden, on my free time I'm currently working on [MiFloraSwarm](https://github.com/AnderssonPeter/MiFloraSwarm)
 <a href="https://stackoverflow.com/users/58553/peter">
   <img src="https://stackoverflow.com/users/flair/58553.png?theme=clean" width="208" height="58" alt="profile for Peter at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Peter at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
