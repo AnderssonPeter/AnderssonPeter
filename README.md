@@ -29,3 +29,8 @@
 <a href="https://github.com/AnderssonPeter/AnderssonPeter">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnderssonPeter&theme=solarized-dark" />
 </a>
+
+
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=anderssonpeter.anderssonpeter)
