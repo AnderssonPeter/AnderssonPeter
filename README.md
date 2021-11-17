@@ -19,6 +19,7 @@
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/48/000000/powershell.png"/>
 
 ### GitHub Stats
 <a href="https://github.com/AnderssonPeter/AnderssonPeter">
