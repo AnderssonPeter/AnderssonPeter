@@ -12,6 +12,7 @@
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img src="https://img.icons8.com/color/48/000000/graphql.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
