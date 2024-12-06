@@ -1,4 +1,4 @@
-### Hi there, I'm Peter Andersson, a fullstack developer currently living in <img src="https://img.icons8.com/color/48/000000/sweden-circular.png" width="17"/> Sölvesborg, Blekinge, Sweden, on my free time I'm currently working on [PowerType](https://github.com/AnderssonPeter/PowerType)
+### Hi there, I'm Peter Andersson, a fullstack developer currently living in <img src="https://img.icons8.com/color/48/000000/sweden-circular.png" width="17"/> Sölvesborg, Blekinge, Sweden, on my free time I'm currently working on [Dolly](https://github.com/AnderssonPeter/Dolly)
 <a href="https://stackoverflow.com/users/58553/peter">
   <img src="https://stackoverflow.com/users/flair/58553.png?theme=dark" width="208" height="58" alt="profile for Peter at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Peter at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
